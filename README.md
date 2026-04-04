@@ -1,2 +1,2 @@
 # monolayer_g-C3N4_NEP
-This is a repository for NEP of monolayer g-C3N4.
+This repository provides the NEP model and associated resources.
