@@ -1,2 +1,2 @@
-# monolayer_g-C3N4_NEP
+# Training_Dataset_for_NEP
 This repository provides the NEP model and associated resources.
